@@ -4,4 +4,6 @@ A basic timer application using Html, CSS and Javascript
 
 ### Application Demo
 
-![](App-Demo.mov)
+<video width="480" height="320" controls>
+  <source src="App-Demo.mov" type="video/mp4">
+</video>
